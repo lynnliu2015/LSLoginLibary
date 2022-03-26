@@ -19,7 +19,7 @@
     
     
     
-    NSLog(@"LoginViewController");
+    NSLog(@"LoginViewController   拉了啦啦啦");
 }
 
 /*
