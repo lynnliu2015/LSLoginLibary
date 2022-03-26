@@ -1,0 +1,16 @@
+PODS:
+  - LSLoginLibary (0.1.0)
+
+DEPENDENCIES:
+  - LSLoginLibary (from `../`)
+
+EXTERNAL SOURCES:
+  LSLoginLibary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSLoginLibary: 0f1643a8e3bc714ad5a8bc33506cd387a0449ff0
+
+PODFILE CHECKSUM: c2d1957f3ab59c8956d77236ae22a944cb90bc3a
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module Pods_LSLoginLibary_Example {
+  umbrella header "Pods-LSLoginLibary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

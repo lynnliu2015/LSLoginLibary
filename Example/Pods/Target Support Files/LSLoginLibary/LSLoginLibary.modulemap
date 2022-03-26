@@ -1,0 +1,6 @@
+framework module LSLoginLibary {
+  umbrella header "LSLoginLibary-umbrella.h"
+
+  export *
+  module * { export * }
+}
