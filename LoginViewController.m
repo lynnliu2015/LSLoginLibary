@@ -20,6 +20,7 @@
     
     
     NSLog(@"LoginViewController   拉了啦啦啦");
+    NSLog(@"LoginViewController   拉了啦啦啦第二次");
 }
 
 /*
