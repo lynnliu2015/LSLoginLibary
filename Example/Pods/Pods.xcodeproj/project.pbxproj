@@ -11,7 +11,7 @@
 		3BB4BF8D27EF52A0005AFD5C /* LoginViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF8B27EF52A0005AFD5C /* LoginViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3BB4BF8E27EF52A0005AFD5C /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF8C27EF52A0005AFD5C /* LoginViewController.m */; };
 		3BB4BF9127F06BB4005AFD5C /* TestViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF8F27F06BB4005AFD5C /* TestViewController.h */; };
-		3BB4BF9227F06BB4005AFD5C /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF9027F06BB4005AFD5C /* TestViewController.m */; };
+		3BB4BF9427F06C18005AFD5C /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF9027F06BB4005AFD5C /* TestViewController.m */; };
 		66155BEF8BED0A53C8870E0B5076A2B5 /* LSLoginLibary-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE77AFE55CD22514B362E1B084829D1 /* LSLoginLibary-dummy.m */; };
 		7D13D7F504DF4865D971C45B4B7C067F /* Pods-LSLoginLibary_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 395D67EC43CA6A8E0ECB1F28D7E23819 /* Pods-LSLoginLibary_Example-dummy.m */; };
 		BED699E44B70BF21C4A7A59E08361DA8 /* Pods-LSLoginLibary_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D99418258862CF8E293BB055D1DCD3B /* Pods-LSLoginLibary_Tests-dummy.m */; };
@@ -330,7 +330,7 @@
 			files = (
 				66155BEF8BED0A53C8870E0B5076A2B5 /* LSLoginLibary-dummy.m in Sources */,
 				0A679F9566388D5EF93B6D0D69A26339 /* ReplaceMe.m in Sources */,
-				3BB4BF9227F06BB4005AFD5C /* TestViewController.m in Sources */,
+				3BB4BF9427F06C18005AFD5C /* TestViewController.m in Sources */,
 				3BB4BF8E27EF52A0005AFD5C /* LoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
