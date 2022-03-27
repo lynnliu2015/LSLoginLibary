@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		0A679F9566388D5EF93B6D0D69A26339 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DE804496C4BA35B9BAD0CE0BC2AAEC7 /* ReplaceMe.m */; };
-		3BB4BF8D27EF52A0005AFD5C /* LoginViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF8B27EF52A0005AFD5C /* LoginViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3BB4BF8E27EF52A0005AFD5C /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF8C27EF52A0005AFD5C /* LoginViewController.m */; };
-		3BB4BF9127F06BB4005AFD5C /* TestViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF8F27F06BB4005AFD5C /* TestViewController.h */; };
-		3BB4BF9427F06C18005AFD5C /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF9027F06BB4005AFD5C /* TestViewController.m */; };
+		3BB4BF9927F07146005AFD5C /* TestViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF9527F07146005AFD5C /* TestViewController.h */; };
+		3BB4BF9A27F07146005AFD5C /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF9627F07146005AFD5C /* TestViewController.m */; };
+		3BB4BF9B27F07146005AFD5C /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4BF9727F07146005AFD5C /* LoginViewController.m */; };
+		3BB4BF9C27F07146005AFD5C /* LoginViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB4BF9827F07146005AFD5C /* LoginViewController.h */; };
 		66155BEF8BED0A53C8870E0B5076A2B5 /* LSLoginLibary-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE77AFE55CD22514B362E1B084829D1 /* LSLoginLibary-dummy.m */; };
 		7D13D7F504DF4865D971C45B4B7C067F /* Pods-LSLoginLibary_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 395D67EC43CA6A8E0ECB1F28D7E23819 /* Pods-LSLoginLibary_Example-dummy.m */; };
 		BED699E44B70BF21C4A7A59E08361DA8 /* Pods-LSLoginLibary_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D99418258862CF8E293BB055D1DCD3B /* Pods-LSLoginLibary_Tests-dummy.m */; };
@@ -39,10 +39,10 @@
 		0D99418258862CF8E293BB055D1DCD3B /* Pods-LSLoginLibary_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSLoginLibary_Tests-dummy.m"; sourceTree = "<group>"; };
 		16F089564EFAC6AB8406C7FFD90CD608 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		395D67EC43CA6A8E0ECB1F28D7E23819 /* Pods-LSLoginLibary_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSLoginLibary_Example-dummy.m"; sourceTree = "<group>"; };
-		3BB4BF8B27EF52A0005AFD5C /* LoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
-		3BB4BF8C27EF52A0005AFD5C /* LoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
-		3BB4BF8F27F06BB4005AFD5C /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
-		3BB4BF9027F06BB4005AFD5C /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		3BB4BF9527F07146005AFD5C /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TestViewController.h; path = LSLoginLibary/Classes/TestViewController.h; sourceTree = "<group>"; };
+		3BB4BF9627F07146005AFD5C /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TestViewController.m; path = LSLoginLibary/Classes/TestViewController.m; sourceTree = "<group>"; };
+		3BB4BF9727F07146005AFD5C /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginViewController.m; path = LSLoginLibary/Classes/LoginViewController.m; sourceTree = "<group>"; };
+		3BB4BF9827F07146005AFD5C /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginViewController.h; path = LSLoginLibary/Classes/LoginViewController.h; sourceTree = "<group>"; };
 		468495D877C8994AA72D9DA9E91B324F /* LSLoginLibary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LSLoginLibary.release.xcconfig; sourceTree = "<group>"; };
 		604778157EA041A0C8CE612BDEBD4A4C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		605626EC5DE84F57D76D3CC27AEA4611 /* LSLoginLibary.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LSLoginLibary.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -160,10 +160,10 @@
 			isa = PBXGroup;
 			children = (
 				6DE804496C4BA35B9BAD0CE0BC2AAEC7 /* ReplaceMe.m */,
-				3BB4BF8B27EF52A0005AFD5C /* LoginViewController.h */,
-				3BB4BF8C27EF52A0005AFD5C /* LoginViewController.m */,
-				3BB4BF8F27F06BB4005AFD5C /* TestViewController.h */,
-				3BB4BF9027F06BB4005AFD5C /* TestViewController.m */,
+				3BB4BF9827F07146005AFD5C /* LoginViewController.h */,
+				3BB4BF9727F07146005AFD5C /* LoginViewController.m */,
+				3BB4BF9527F07146005AFD5C /* TestViewController.h */,
+				3BB4BF9627F07146005AFD5C /* TestViewController.m */,
 				609E198FED0D872E1C9E597B2C7B36C5 /* Pod */,
 				E45BB5ED5E579108556665384E199315 /* Support Files */,
 			);
@@ -203,8 +203,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BB4BF8D27EF52A0005AFD5C /* LoginViewController.h in Headers */,
-				3BB4BF9127F06BB4005AFD5C /* TestViewController.h in Headers */,
+				3BB4BF9927F07146005AFD5C /* TestViewController.h in Headers */,
+				3BB4BF9C27F07146005AFD5C /* LoginViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,10 +328,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BB4BF9B27F07146005AFD5C /* LoginViewController.m in Sources */,
+				3BB4BF9A27F07146005AFD5C /* TestViewController.m in Sources */,
 				66155BEF8BED0A53C8870E0B5076A2B5 /* LSLoginLibary-dummy.m in Sources */,
 				0A679F9566388D5EF93B6D0D69A26339 /* ReplaceMe.m in Sources */,
-				3BB4BF9427F06C18005AFD5C /* TestViewController.m in Sources */,
-				3BB4BF8E27EF52A0005AFD5C /* LoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
